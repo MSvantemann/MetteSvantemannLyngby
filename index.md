@@ -2,10 +2,12 @@ Welcome to my page. On this site you can find the extra information that you may
 
 Please scroll down to find:
 
-· My curriculum vitae
-· Recommendations
-· Former projects including: 
-  · 
+1. My curriculum vitae
+2. Recommendations
+3. Former projects including: 
+  3.1: Master thesis
+  3.2: pik
+  
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
