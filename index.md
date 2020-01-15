@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+Welcome to my page. On this site you can find the extra information that you may need to, when considering my application.
 
-You can use the [editor on GitHub](https://github.com/MSvantemann/mettesvantemann/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Please scroll down to find:
+
+· My curriculum vitae
+· Recommendations
+· Former projects including: 
+  · 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
