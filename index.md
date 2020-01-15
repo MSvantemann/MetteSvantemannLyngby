@@ -1,5 +1,6 @@
 ### Welcome to my page. On this site you can find the extra information that you may need, when considering my application.
 
+
 Please scroll down to find:
 
 1. My curriculum vitae
@@ -8,10 +9,7 @@ Please scroll down to find:
 4. Fieldwork experience 
 
   
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Curriculum vitae
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
